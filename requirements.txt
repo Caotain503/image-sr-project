@@ -1,0 +1,6 @@
+Required libraries:
+-opencv-contrib-python
+-numpy
+-pandas
+-matplotlib
+-scikit-image
